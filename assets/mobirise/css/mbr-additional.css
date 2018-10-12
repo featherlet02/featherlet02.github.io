@@ -20,7 +20,6 @@
 
 
 
-
 #menu-1 .navbar-toggler {
   color: #000000;
 }
@@ -39,16 +38,28 @@
 #msg-box2-e H2 {
   font-family: 'Alegreya Sans', sans-serif;
 }
-#features1-a H4 {
-  font-size: 16px;
+#content4-w H4 {
   font-family: 'Alegreya Sans', sans-serif;
-  text-align: right;
 }
-#features1-a DIV {
+#msg-box2-g H2 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-q DIV {
+  font-size: 16px;
+}
+#content5-q P {
   text-align: left;
 }
-#features1-a B {
-  font-family: 'Playfair Display', sans-serif;
+#msg-box2-l H2 {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-p P {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+#content5-p DIV {
+  font-size: 16px;
 }
 #msg-box2-f H2 {
   font-family: 'Alegreya Sans', sans-serif;
@@ -70,12 +81,6 @@
 #testimonials1-7 .card-block DIV {
   font-family: 'Alegreya Sans', sans-serif;
 }
-#msg-box2-g H2 {
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#content5-q DIV {
-  font-size: 16px;
-}
 #msg-box2-k H2 {
   font-family: 'Alegreya Sans', sans-serif;
 }
@@ -88,17 +93,6 @@
   text-align: left;
 }
 #content5-o DIV {
-  font-size: 16px;
-}
-#msg-box2-l H2 {
-  font-family: 'Alegreya Sans', sans-serif;
-}
-#content5-p P {
-  font-family: 'Alegreya Sans', sans-serif;
-  font-size: 16px;
-  text-align: left;
-}
-#content5-p DIV {
   font-size: 16px;
 }
 #contacts1-8 P {
